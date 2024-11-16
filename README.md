@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EsthebanHeredia
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript and his frameworks
-- 💞️ I’m looking to collaborate on any tip about bootstrap
+- 👀 I’m interested in OOP, java and web development. 
+- 🌱 I’m currently learning Java and Python
 - 📫 How to reach me "esthebanheredia15@gmail.com"
 
 <!---
