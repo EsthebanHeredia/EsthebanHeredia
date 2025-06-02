@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Estheban Heredia!
 
-![Math Gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWc3N2xwbmVhbWY1czE1Z3VzbTF0eTR4ZmNpOWExcTdyY2J1ZndoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3tEFVAbfzzcwo/giphy.gif))
-
 ## 🚀 About Me
 - 🎓 Applied Math student & lifelong learner
 - 💻 Object-Oriented Programming enthusiast (Java & Python are my current playgrounds)
