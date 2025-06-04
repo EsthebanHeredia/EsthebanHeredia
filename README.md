@@ -16,7 +16,7 @@
 > My flagship repo: `motomatch` — matchmaking for motorcycles and math lovers alike 🏍️➕🧮
 
 ## 🧩 Fun Facts
-- I solve Rubik’s cubes for fun and speed (PB: under a minute!)
+- I solve Rubik’s cubes for fun and speed (PB: under 11s!)
 - I sometimes dream in LaTeX
 - Chess openings? I have a spreadsheet for that
 - My favorite function is the Riemann zeta function (ζ(s), anyone?)
